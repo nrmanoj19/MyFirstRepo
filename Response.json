@@ -1,0 +1,13 @@
+{
+  "resource": "/my_demo_lambda",
+  "path": "/my_demo_lambda",
+  "httpMethod": "GET",
+  "queryStringParameters": {
+    "parameter1": "value1",
+    "parameter2": "value"
+  },
+  "pathParameters": null,
+  "stageVariables": null,
+  "body": "Hello from Lambda!",
+  "isBase64Encoded": false
+}
